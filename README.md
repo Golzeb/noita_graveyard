@@ -2,9 +2,8 @@
 Browse Noita bone files with simple to use CLI UI
 
 ## Installation
-1. Extract the zip anywhere
-2. Copy `data/translations/common.csv` file in Noita's installation directory to `noita_graveyard.exe` directory
-3. Launch `noita_graveyard.exe`
+1. Copy `data/translations/common.csv` file in Noita's installation directory to `noita_graveyard.exe` directory
+2. Launch `noita_graveyard.exe`
 
 ## Usage
 | Key(s) | Action |
