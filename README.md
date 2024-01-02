@@ -12,6 +12,7 @@ Browse Noita bone files with simple to use CLI UI
 | Q/ESC | Go back to list or close a program |
 | Backspace | Go back to list |
 | Up/Down | Change selected spell/bone file |
+| Enter | Select bone file |
 
 ## TODO
 - managing bone files
